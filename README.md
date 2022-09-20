@@ -6,6 +6,19 @@
 <img src="https://i.ytimg.com/vi/_huo7KMp2Ww/maxresdefault.jpg" height="400px" width="100%"/>
 
 
+- 🌱 I’m currently learning **full stack web development at masai school**
+
+- 👨‍💻 All of my projects are available at [https://raj4709267.github.io/Raj-Kumar-Mahto/](https://raj4709267.github.io/Raj-Kumar-Mahto/)
+
+- 💬 Ask me about **anything**
+
+- 📫 How to reach me **rk2519962@gmail.com**
+
+- ⚡ Fun fact I think **I am kind hearted and creative person**
+ 
+- 👯 Love to connect with **new people**
+
+
 
 
 <h3 align="left">Connect with me:</h3>
