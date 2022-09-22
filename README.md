@@ -32,7 +32,10 @@
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj4709267&theme=dark" alt="raj4709267" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=raj4709267&show_icons=true&locale=en&theme=dark" alt="raj4709267" /> </p>  
 
-
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me//Raj4709267/count.svg" />
+</h3>
 
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
