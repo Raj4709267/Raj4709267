@@ -49,6 +49,26 @@
 </div>
 
 
+<h2 align="center">📊 My Github Stats<h2>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj4709267&theme=onedark" alt="raj4709267" />
+    </p>
+    </br>
+     <p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj4709267&theme=radical" width="48%" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raj4709267&show_icons=true&theme=radical" width="48%" />
+  </p>
+  
+
+  </br>
+
+  
+  <p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj4709267&theme=radical&langs_count=8"  width="24%"/>
+   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=raj4709267&theme=gruvbox&hide_border=true&area=true"  width="70%"/>
+</p>
+    
+
+
 <h3 align="center"> 
   Visitor count <br>
   <img src="https://profile-counter.glitch.me//Raj4709267/count.svg" />
