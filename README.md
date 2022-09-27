@@ -3,7 +3,7 @@
 
 
 
-<img src="https://i.ytimg.com/vi/_huo7KMp2Ww/maxresdefault.jpg" height="400px" width="100%"/>
+<img src=https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" height="400px" width="100%"/>
 
 
 - 🌱 I’m currently learning **full stack web development at masai school**
