@@ -52,17 +52,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj4709267&show_icons=true&locale=en&layout=compact&theme=dark" alt="raj4709267" />
  
  </p>
- 
+ <p align="center" >
+      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=raj4709267&theme=gruvbox&hide_border=true&area=true"  width="70%"/>
+
+ </p>
  <p>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj4709267&theme=radical" width="48%" />
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=raj4709267&show_icons=true&theme=radical" width="48%" />
   </p>
   
 
-  <p align="center" >
-      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=raj4709267&theme=gruvbox&hide_border=true&area=true"  width="70%"/>
-
- </p>
+  
     
 
 
