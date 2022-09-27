@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raj Kumar Mahto</h1>
 <h3 align="center">A passionate web developer from India</h3>
+<h2  align="center">Full Stack Developer with hands on experience in building cool React Apps. Works efficiently both in frontend as well as backend and is proficient in Data Structure and Algorithms with problem solving skills.</h2>
 
 
 
