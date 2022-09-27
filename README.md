@@ -58,8 +58,10 @@
   </p>
   
 
-  
-   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=raj4709267&theme=gruvbox&hide_border=true&area=true"  width="70%"/>
+  <p align="center" >
+      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=raj4709267&theme=gruvbox&hide_border=true&area=true"  width="70%"/>
+
+ </p>
     
 
 
