@@ -33,9 +33,9 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj4709267&show_icons=true&locale=en&layout=compact&theme=dark" alt="raj4709267" />
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj4709267&show_icons=true&locale=en&layout=compact&theme=dark" alt="raj4709267" /></p>
 <p align="center" > <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj4709267&theme=dark" alt="raj4709267" /></p>
-<div align="center" ></p>
+<div align="center" >
  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=raj4709267&show_icons=true&locale=en&theme=dark" alt="raj4709267" /> </p>  
 </div>
 
