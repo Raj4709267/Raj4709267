@@ -18,6 +18,7 @@
  
 - 👯 Love to connect with **new people**
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
 <h3 align="left">Connect with me:</h3>
