@@ -48,9 +48,6 @@
  
  <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj4709267&show_icons=true&locale=en&layout=compact&theme=dark" alt="raj4709267" /></p>
  
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj4709267&theme=radical&langs_count=8"  width="24%"/>
-
-
     </br>
      <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj4709267&theme=radical" width="48%" />
