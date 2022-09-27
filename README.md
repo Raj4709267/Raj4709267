@@ -5,6 +5,8 @@
 
 <img src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" height="400px" width="100%"/>
 
+<p><img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 
 - 🌱 I’m currently learning **full stack web development at masai school**
 
