@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **full stack web development at masai school**
 
-- 👨‍💻 All of my projects are available at [https://raj4709267.github.io/Raj-Kumar-Mahto/](https://raj4709267.github.io/Raj-Kumar-Mahto/)
+- 👨‍💻 All of my projects are available at [https://raj4709267.github.io/](https://raj4709267.github.io/)
 
 - 💬 Ask me about **anything**
 
