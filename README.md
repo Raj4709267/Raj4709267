@@ -23,7 +23,7 @@
  
 - 👯 Love to connect with **new people**
 
-- 👨‍💻 My Portfolio [Link](https://raj4709267.github.io/Raj-Kumar-Mahto/)
+- 👨‍💻 My Portfolio [Link](https://raj4709267.github.io)
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
