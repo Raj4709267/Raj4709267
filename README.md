@@ -29,7 +29,7 @@ developer.</h4>
 - 👯 Love to connect with **new people**
 
 - 👨‍💻 My Portfolio [Link](https://raj4709267.github.io)
-- 👨‍💻 My Portfolio [Link](https://drive.google.com/file/d/1hXNAxtKmaOYt-Enr24TqusULdqKmVi0b/view)
+- 👨‍💻 My Resume [Link](https://drive.google.com/file/d/1hXNAxtKmaOYt-Enr24TqusULdqKmVi0b/view)
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
