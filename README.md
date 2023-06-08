@@ -2,12 +2,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<h4  align="center">Passionate full-stack web developer with experience in
-building fully functional & responsive web applications.
-Efficient in both front-end skills and back-end skills. Proficient
-in data structures and algorithms with problem solving skills.
-Looking to further enhance skills as a future full-stack web
-developer.</h4>
+<h4  align="center">Passionate full-stack web developer adept in front-end and back-end development. Skilled in building responsive web applications. Strong problem-solving abilities and a deep understanding of software development principles. Committed to continuous growth, staying updated with emerging technologies. Seeking opportunities to enhance skills and contribute as a future-focused web developer.</h4>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
