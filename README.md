@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://raj4709267.github.io/](https://raj4709267.github.io/)
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **rajkumarmahto6372@gmail.com**
 
