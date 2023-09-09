@@ -6,7 +6,7 @@
 
 
 
-<img src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" height="400px" width="100%"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/social-media-528ef.appspot.com/o/messagePhoto%2F51350239267_4eefa24829_o.png?alt=media&token=bfca0962-babf-49f1-a85b-64e5493f5371" height="250px" width="100%"/>
 
 
 - 🌱 Completed **full stack web development** from Masai school
